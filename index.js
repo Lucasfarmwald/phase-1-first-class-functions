@@ -1,0 +1,3 @@
+function receivesAFunction(){
+    myCallback();
+}
